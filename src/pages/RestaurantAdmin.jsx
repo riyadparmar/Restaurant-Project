@@ -99,7 +99,7 @@ const RestaurantAdmin = () => {
               <div className="flex gap-2 mt-4">
                 <button
                   onClick={() => handleEdit(item)}
-                  className="bg-yellow-500 text-white p-2 rounded"
+                  className="bg-blue-500 text-white p-2 rounded"
                 >
                   Edit
                 </button>
